@@ -2,6 +2,8 @@
 
 A sleek, responsive, and thoughtfully crafted landing page for **Northstar**, an independent creative studio. Built with **React 19** and **Vite**, featuring modern styling, smooth section navigation, and responsive typography.
 
+🔗 **Live Demo**: [https://kanishkjaiswal257-cyber.github.io/Responsive_Page/](https://kanishkjaiswal257-cyber.github.io/Responsive_Page/)
+
 ---
 
 ## ✨ Features
